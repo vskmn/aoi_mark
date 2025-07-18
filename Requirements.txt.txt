@@ -1,0 +1,3 @@
+streamlit
+pandas
+(openpyxl or any other module your app needs)
